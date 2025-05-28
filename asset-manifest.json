@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Acre-rio/static/css/main.49e3378d.css",
+    "main.js": "/Acre-rio/static/js/main.dd5b2254.js",
+    "static/media/instagram.gif": "/Acre-rio/static/media/instagram.3ef61bf36d66b873c670.gif",
+    "static/media/facebook.gif": "/Acre-rio/static/media/facebook.2bf5fc7ed853e065e8e8.gif",
+    "static/media/zap-animado.gif": "/Acre-rio/static/media/zap-animado.033cf5aa84b0e7d49c15.gif",
+    "static/media/localizacao_transparente.gif": "/Acre-rio/static/media/localizacao_transparente.b047a0a5709e1af94c86.gif",
+    "static/media/Logo Preta .png": "/Acre-rio/static/media/Logo Preta .0b4b16115bed61ba92bd.png",
+    "index.html": "/Acre-rio/index.html",
+    "main.49e3378d.css.map": "/Acre-rio/static/css/main.49e3378d.css.map",
+    "main.dd5b2254.js.map": "/Acre-rio/static/js/main.dd5b2254.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49e3378d.css",
+    "static/js/main.dd5b2254.js"
+  ]
+}
