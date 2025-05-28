@@ -50,7 +50,7 @@ function Botoes() {
       </button>
 
       
-      <p className="rodape-acre-rio">Acre Rio © 2025 </p>
+      <p className="rodape-acre-rio">Acre Rio - Soluções Em Móveis © 2025 </p>
 
     <a href="https://www.instagram.com/mtf_dev/" target="_blank" rel="noopener noreferrer">
         <img className="logo_mtf" src={ImagemLogo} alt="Logo MTF" />
