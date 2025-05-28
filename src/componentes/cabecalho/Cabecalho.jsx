@@ -1,4 +1,4 @@
-import imagemAcrerio from "../imagens/Logo Preta .png"
+import imagemAcrerio from "../imagens/Logo Branca.png"
 
 function Cabecalho() {
 return (

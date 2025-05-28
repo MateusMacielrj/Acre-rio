@@ -33,12 +33,17 @@ button img {
 }
 
 
+.rodape-acre-rio{
+  margin-top: 1rem;
+  color: white;
 
-
-.img-face {
-  margin-right: 50rem;
-  
 }
+
+.logo_mtf {
+  width: 4rem;
+}
+
+
 
 
 @media (max-width: 420px) {

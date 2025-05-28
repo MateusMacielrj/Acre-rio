@@ -1,7 +1,9 @@
 import ImagemWhatsapp from "../imagens/zap-animado.gif";
 import ImagemMapa from "../imagens/localizacao_transparente.gif";
 import ImagemInsta from "../imagens/instagram.gif";
-import ImagemFace from "../imagens/facebook.gif"
+import ImagemFace from "../imagens/facebook.gif";
+import ImagemLogo from "../imagens/logo _mtf_transparente.png"
+
 
 function Botoes() {
   return (
@@ -15,18 +17,25 @@ function Botoes() {
         }}
       >
         <img src={ImagemWhatsapp} alt="WhatsApp" />
-        Atendimento  on-line
+        Atendimento on-line
       </button>
 
       <button
         onClick={() => {
-          window.open(
-            "https://www.facebook.com/acrerio.oficial/?locale=pt_BR"
-          );
+          window.open("https://www.instagram.com/acrerio.oficial/");
+        }}
+      >
+        <img src={ImagemInsta} alt="" />
+        Instagram
+      </button>
+
+      <button
+        onClick={() => {
+          window.open("https://www.facebook.com/acrerio.oficial/?locale=pt_BR");
         }}
       >
         <img src={ImagemFace} alt="" />
-        Facebook 
+        Facebook
       </button>
 
       <button
@@ -40,14 +49,13 @@ function Botoes() {
         Onde estamos
       </button>
 
-      <button
-        onClick={() => {
-          window.open("https://www.instagram.com/acrerio.oficial/");
-        }}
-      >
-        <img src={ImagemInsta} alt="" />
-      Instagram
-      </button>
+      
+      <p className="rodape-acre-rio">Acre Rio © 2025 </p>
+
+    <a href="https://www.instagram.com/mtf_dev/" target="_blank" rel="noopener noreferrer">
+        <img className="logo_mtf" src={ImagemLogo} alt="Logo MTF" />
+      </a>
+
     </div>
   );
 }
