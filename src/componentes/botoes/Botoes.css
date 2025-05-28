@@ -1,0 +1,55 @@
+.btn-contatos {
+    width: 90%; 
+    max-width: 500px;
+    margin: 2rem auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+   
+}
+
+
+button {
+    width: 100%;
+    max-width: 25rem;
+    height: 3rem;
+    border-radius: 1.5rem;
+    background-color: #00CF71;
+    color: white;
+    font-size: medium;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+
+button img {
+    margin-left: 5.5rem;
+    width: 2rem;
+    margin-right:1rem;
+    background: transparent;
+    filter: brightness(0) invert(1);
+}
+
+
+
+
+.img-face {
+  margin-right: 50rem;
+  
+}
+
+
+@media (max-width: 420px) {
+
+  button img {
+    margin-left: 4.8rem;
+    width: 2rem;
+    margin-right:1rem;
+    background: transparent;
+   
+    ;
+  }
+}
+
